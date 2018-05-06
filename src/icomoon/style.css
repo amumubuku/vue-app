@@ -1,0 +1,161 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?3jhxch');
+  src:  url('fonts/icomoon.eot?3jhxch#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?3jhxch') format('truetype'),
+    url('fonts/icomoon.woff?3jhxch') format('woff'),
+    url('fonts/icomoon.svg?3jhxch#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-search:before {
+  content: "\e923";
+}
+.icon-play-button:before {
+  content: "\e922";
+}
+.icon-garbage:before {
+  content: "\e900";
+}
+.icon-process-arrows:before {
+  content: "\e901";
+}
+.icon-music-note-with-loop-circular-arrows-around:before {
+  content: "\e902";
+}
+.icon-pause:before {
+  content: "\e903";
+  color: #2394bc;
+}
+.icon-arrows-6:before {
+  content: "\e904";
+  color: #2394bc;
+}
+.icon-playlist .path1:before {
+  content: "\e905";
+  color: rgb(232, 180, 77);
+}
+.icon-playlist .path2:before {
+  content: "\e906";
+  margin-left: -1em;
+  color: rgb(255, 209, 92);
+}
+.icon-playlist .path3:before {
+  content: "\e907";
+  margin-left: -1em;
+  color: rgb(232, 180, 77);
+}
+.icon-playlist .path4:before {
+  content: "\e908";
+  margin-left: -1em;
+  color: rgb(54, 53, 58);
+}
+.icon-playlist .path5:before {
+  content: "\e909";
+  margin-left: -1em;
+  color: rgb(54, 53, 58);
+}
+.icon-playlist .path6:before {
+  content: "\e90a";
+  margin-left: -1em;
+  color: rgb(54, 53, 58);
+}
+.icon-playlist .path7:before {
+  content: "\e90b";
+  margin-left: -1em;
+  color: rgb(54, 53, 58);
+}
+.icon-playlist .path8:before {
+  content: "\e90c";
+  margin-left: -1em;
+  color: rgb(54, 53, 58);
+}
+.icon-playlist .path9:before {
+  content: "\e90d";
+  margin-left: -1em;
+  color: rgb(54, 53, 58);
+}
+.icon-playlist .path10:before {
+  content: "\e90e";
+  margin-left: -1em;
+  color: rgb(54, 53, 58);
+}
+.icon-playlist .path11:before {
+  content: "\e90f";
+  margin-left: -1em;
+  color: rgb(54, 53, 58);
+}
+.icon-playlist .path12:before {
+  content: "\e910";
+  margin-left: -1em;
+  color: rgb(54, 53, 58);
+}
+.icon-playlist .path13:before {
+  content: "\e911";
+  margin-left: -1em;
+  color: rgb(54, 53, 58);
+}
+.icon-social:before {
+  content: "\e912";
+}
+.icon-trophy:before {
+  content: "\e913";
+}
+.icon-shuffle:before {
+  content: "\e914";
+}
+.icon-circle:before {
+  content: "\e915";
+}
+.icon-arrows-5:before {
+  content: "\e916";
+}
+.icon-arrows-4:before {
+  content: "\e917";
+}
+.icon-shapes:before {
+  content: "\e918";
+}
+.icon-arrows-3:before {
+  content: "\e919";
+}
+.icon-arrows-2:before {
+  content: "\e91a";
+}
+.icon-arrows-1:before {
+  content: "\e91b";
+}
+.icon-arrows:before {
+  content: "\e91c";
+}
+.icon-close-2:before {
+  content: "\e91d";
+}
+.icon-close-1:before {
+  content: "\e91e";
+}
+.icon-close:before {
+  content: "\e91f";
+}
+.icon-folder:before {
+  content: "\e920";
+}
+.icon-multimedia:before {
+  content: "\e921";
+}
